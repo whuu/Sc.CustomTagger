@@ -1,7 +1,7 @@
 # Custom Content Tagger
 
 Module allows Content Authors to use built-in [Sitecore Cortex Content Tagging](https://doc.sitecore.com/users/91/sitecore-experience-platform/en/tag-content-using-sitecore-cortex-content-tagging.html) feature with custom tags root item(s) and custom tag items structure. 
-This gives more flexibility, cause by default content tagging applies tags to items in standard _Semantics field and stores the tags in item buckets, which are not easy to manage or reuse. 
+This gives more flexibility, cause by default content tagging applies tags to items in standard `_Semantics` field and stores the tags in item buckets, which are not easy to manage or reuse. 
 Module is flexible and works with different tags structure, including custom or SXA. 
 
 Modules solves some issues related with standard content tagging:
