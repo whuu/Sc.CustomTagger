@@ -1,0 +1,25 @@
+﻿---
+ID: "0c6c9016-8c1a-49f3-99e8-963efc1b3f63"
+Parent: "c57d5059-3504-46dc-bc09-55be3e55e5f2"
+Template: "c57d5059-3504-46dc-bc09-55be3e55e5f2"
+Path: /sitecore/templates/Project/SamplePageTags/Tagging/Tag Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {F1E95A42-F528-4C0D-BEE3-2974DD37864A}
+    {C57D5059-3504-46DC-BC09-55BE3E55E5F2}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190302T114704Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,25 @@
+﻿---
+ID: "2038ace0-8537-405e-a1ce-5d1973d45ecf"
+Parent: "e3b962fb-be3b-4e8f-b090-0a430436ecc9"
+Template: "d58fd92c-3173-4ab0-ad52-5a69137242d4"
+Path: /sitecore/content/SampleTagsHome/Sitecore/Inner item
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07709ac8-1297-45bf-97d5-06f2affb404d"
+      Hint: Title
+      Value: Sitecore
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190302T161955Z
+    - ID: "a8eec771-2e64-4aa0-a13e-3992d4c5578b"
+      Hint: Content
+      Value: |
+        <p>From a single connected platform that also integrates with other customer-facing platforms, to a single view of the customer in a big data marketing repository, to <strong>completely </strong>eliminating much of the complexity that has previously held marketers back, the latest version of Sitecore makes customer experience highly achievable. Learn how the latest version of Sitecore gives marketers the complete data, integrated tools, and automation capabilities to engage customers throughout an iterative lifecycle – the technology foundation absolutely necessary to win customers for life.</p><p>For further information, please go to the <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore Documentation site">Sitecore Documentation site</a></p>
+    - ID: "ace7efba-d98b-47b7-ae36-48e0f982d9f2"
+      Hint: Content Tags
+      Type: Treelist
+      Value: 

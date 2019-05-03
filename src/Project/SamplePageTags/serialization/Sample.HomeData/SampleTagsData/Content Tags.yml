@@ -1,0 +1,14 @@
+﻿---
+ID: "d1d56b5c-a232-4de7-ab6b-9d248464d0ec"
+Parent: "6cd02ab2-e922-44b2-9125-f96ad2fc1b94"
+Template: "621dd008-45f1-4bd3-ad97-5d32eb6997e1"
+Path: /sitecore/content/SampleTagsData/Content Tags
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190302T115005Z

@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{17DD5718-6E13-4F2C-9738-B410396D4552}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{15D97D61-D597-42EC-B7E9-E9EC8130E630}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{ADCA10F7-A1D2-407B-8074-60418168C02E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		nuget.config = nuget.config
+		publishsettings.targets = publishsettings.targets
+		README.md = README.md
+		src\Foundation\Serialization\code\App_Config\Include\Foundation\zz.Sc.CustomTagger.Serialization.Settings.config = src\Foundation\Serialization\code\App_Config\Include\Foundation\zz.Sc.CustomTagger.Serialization.Settings.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomTagger", "CustomTagger", "{D1C69EB9-A71D-4D51-93AF-F51DA0F49C58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{419E0D89-A2B5-43F5-B715-4EEC11C0CF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sc.CustomTagger.Serialization", "src\Foundation\Serialization\code\Sc.CustomTagger.Serialization.csproj", "{007CD5DC-0030-460D-91A3-3DDEA9AB472F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sc.CustomTagger", "src\Feature\CustomCortexTagger\code\Sc.CustomTagger.csproj", "{FA3D4B43-28E6-48E8-9FAC-41EC61F01860}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomTaggerSettings", "CustomTaggerSettings", "{38FA3A42-A257-483E-9F12-CC05BE773CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sc.CustomTagger.Settings", "src\Foundation\CustomTaggerSettings\code\Sc.CustomTagger.Settings.csproj", "{62B785A0-1E80-411A-A2B0-536451C2899A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SamplePageTags", "SamplePageTags", "{D754B00A-3185-41AA-8637-6C0ADE43E5AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sc.CustomTagger.SamplePageTags", "src\Project\SamplePageTags\code\Sc.CustomTagger.SamplePageTags.csproj", "{649BC52D-A787-45D5-BB40-21466EEFF12F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007CD5DC-0030-460D-91A3-3DDEA9AB472F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007CD5DC-0030-460D-91A3-3DDEA9AB472F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007CD5DC-0030-460D-91A3-3DDEA9AB472F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007CD5DC-0030-460D-91A3-3DDEA9AB472F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3D4B43-28E6-48E8-9FAC-41EC61F01860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3D4B43-28E6-48E8-9FAC-41EC61F01860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3D4B43-28E6-48E8-9FAC-41EC61F01860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3D4B43-28E6-48E8-9FAC-41EC61F01860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B785A0-1E80-411A-A2B0-536451C2899A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B785A0-1E80-411A-A2B0-536451C2899A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B785A0-1E80-411A-A2B0-536451C2899A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B785A0-1E80-411A-A2B0-536451C2899A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{649BC52D-A787-45D5-BB40-21466EEFF12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649BC52D-A787-45D5-BB40-21466EEFF12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649BC52D-A787-45D5-BB40-21466EEFF12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649BC52D-A787-45D5-BB40-21466EEFF12F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D1C69EB9-A71D-4D51-93AF-F51DA0F49C58} = {17DD5718-6E13-4F2C-9738-B410396D4552}
+		{419E0D89-A2B5-43F5-B715-4EEC11C0CF8B} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
+		{007CD5DC-0030-460D-91A3-3DDEA9AB472F} = {419E0D89-A2B5-43F5-B715-4EEC11C0CF8B}
+		{FA3D4B43-28E6-48E8-9FAC-41EC61F01860} = {D1C69EB9-A71D-4D51-93AF-F51DA0F49C58}
+		{38FA3A42-A257-483E-9F12-CC05BE773CB9} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
+		{62B785A0-1E80-411A-A2B0-536451C2899A} = {38FA3A42-A257-483E-9F12-CC05BE773CB9}
+		{D754B00A-3185-41AA-8637-6C0ADE43E5AC} = {15D97D61-D597-42EC-B7E9-E9EC8130E630}
+		{649BC52D-A787-45D5-BB40-21466EEFF12F} = {D754B00A-3185-41AA-8637-6C0ADE43E5AC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {311DA37D-528B-43B2-A99B-E7253F841D46}
+	EndGlobalSection
+EndGlobal

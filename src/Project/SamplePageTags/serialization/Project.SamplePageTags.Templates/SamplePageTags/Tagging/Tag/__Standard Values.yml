@@ -1,0 +1,21 @@
+﻿---
+ID: "bd071443-0f9e-4d07-a801-d14df8796fbd"
+Parent: "f1e95a42-f528-4c0d-bee3-2974dd37864a"
+Template: "f1e95a42-f528-4c0d-bee3-2974dd37864a"
+Path: /sitecore/templates/Project/SamplePageTags/Tagging/Tag/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "167c30d3-1b09-4c23-a815-7e619d8ebcb1"
+      Hint: Title
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190302T114713Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

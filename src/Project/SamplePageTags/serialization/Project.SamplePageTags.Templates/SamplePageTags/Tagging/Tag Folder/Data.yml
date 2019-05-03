@@ -1,0 +1,14 @@
+﻿---
+ID: "f7e8638e-b6a3-4773-a26a-5bacaf3cbf83"
+Parent: "c57d5059-3504-46dc-bc09-55be3e55e5f2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/SamplePageTags/Tagging/Tag Folder/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190502T081237Z

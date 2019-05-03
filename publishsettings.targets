@@ -1,0 +1,15 @@
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <!--
+           Instead of editing this file, create new file **publishsettings.targets.user** in solution root. 
+           Add following to the file and change `publishUrl` to your Sitecore instance name:                        
+			<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+				<PropertyGroup>
+					<publishUrl>http://sc9.local</publishUrl>
+				</PropertyGroup>
+    		</Project>
+        -->
+        <publishUrl>http://sc9.local</publishUrl>
+    </PropertyGroup>
+    <Import Project="./publishsettings.targets.user" Condition="exists('./publishsettings.targets.user')" /> 
+</Project>

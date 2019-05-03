@@ -1,0 +1,21 @@
+﻿---
+ID: "8f3f988f-48da-4a9a-a402-acc8baa6e9a6"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "192fb897-6fae-4d50-acf2-a566856162f6"
+Path: /sitecore/content/SampleTagsHome
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sample Tags Home
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07709ac8-1297-45bf-97d5-06f2affb404d"
+      Hint: Title
+      Value: Sample Tags Home
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190302T161832Z

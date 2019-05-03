@@ -1,0 +1,14 @@
+﻿---
+ID: "68323eef-fb1d-44be-90bd-d0c072f08c95"
+Parent: "d58fd92c-3173-4ab0-ad52-5a69137242d4"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/SamplePageTags/Page Types/Page/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190302T161305Z

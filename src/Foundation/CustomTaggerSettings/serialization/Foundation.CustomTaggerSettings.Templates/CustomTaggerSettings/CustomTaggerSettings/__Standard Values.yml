@@ -1,0 +1,22 @@
+﻿---
+ID: "29278960-72dd-4d14-adeb-7ab80ceedb04"
+Parent: "07e95c3d-2bb4-469d-9d3b-7add9731cbd7"
+Template: "07e95c3d-2bb4-469d-9d3b-7add9731cbd7"
+Path: /sitecore/templates/Foundation/CustomTaggerSettings/CustomTaggerSettings/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190302T111910Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

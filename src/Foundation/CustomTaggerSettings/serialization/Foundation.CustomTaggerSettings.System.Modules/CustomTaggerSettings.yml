@@ -1,0 +1,33 @@
+﻿---
+ID: "82239f2f-d096-4db4-a6b5-776b210d47f9"
+Parent: "08477468-d438-43d4-9d6a-6d84a611971c"
+Template: "07e95c3d-2bb4-469d-9d3b-7add9731cbd7"
+Path: /sitecore/system/Modules/CustomTaggerSettings
+DB: master
+SharedFields:
+- ID: "55dd19b5-9143-4ca1-9abb-aa4826f60031"
+  Hint: TagsListFieldTarget
+  Value: 
+- ID: "5a4de458-e557-4de1-b185-fc5ef282e3c8"
+  Hint: TagEntryTemplate
+  Value: 
+- ID: "6d18469e-2395-4735-8eb1-84c06e3cdcca"
+  Hint: TagEntryValueField
+  Value: 
+- ID: "cbcf7b8f-b928-4410-b014-0d28b45152d1"
+  Hint: TagCategoryValueField
+  Value: 
+- ID: "eecfd4d2-d64c-4214-8150-cfe9c491d779"
+  Hint: TagsCollectionRootItem
+  Value: 
+- ID: "fba071cf-5c10-4e4b-9ac1-f57f7e63f2ab"
+  Hint: TagCategoryTemplate
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190302T112111Z
