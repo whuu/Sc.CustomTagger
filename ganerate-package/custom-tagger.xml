@@ -1,0 +1,74 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName />
+      <Author />
+      <Version />
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher />
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/system/Modules/CustomTaggerSettings/{82239F2F-D096-4DB4-A6B5-776B210D47F9}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Validation Rules/Field Rules/CustomTaggerSettings/{2D97E490-DBDE-40F2-9B6B-4238EC34A59D}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Validation Rules/Field Rules/CustomTaggerSettings/Is field item selected/{2B5245B2-7584-4B48-A199-8B29E69E9DBD}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Validation Rules/Field Rules/CustomTaggerSettings/Is template item selected/{C5C95311-7031-49F0-BE45-BB5E7E0EAE61}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Foundation/CustomTaggerSettings/{FB2FF998-7E53-41B2-9135-0C6986A857AB}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Foundation/CustomTaggerSettings/CustomTaggerSettings/__Standard Values/{29278960-72DD-4D14-ADEB-7AB80CEEDB04}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Foundation/CustomTaggerSettings/CustomTaggerSettings/{07E95C3D-2BB4-469D-9D3B-7ADD9731CBD7}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Foundation/CustomTaggerSettings/CustomTaggerSettings/Data/{2642E1E5-6CB9-47CE-AA3C-84BFD5C3636F}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Foundation/CustomTaggerSettings/CustomTaggerSettings/Data/TagCategoryTemplate/{FBA071CF-5C10-4E4B-9AC1-F57F7E63F2AB}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Foundation/CustomTaggerSettings/CustomTaggerSettings/Data/TagCategoryValueField/{CBCF7B8F-B928-4410-B014-0D28B45152D1}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Foundation/CustomTaggerSettings/CustomTaggerSettings/Data/TagEntryTemplate/{5A4DE458-E557-4DE1-B185-FC5EF282E3C8}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Foundation/CustomTaggerSettings/CustomTaggerSettings/Data/TagEntryValueField/{6D18469E-2395-4735-8EB1-84C06E3CDCCA}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Foundation/CustomTaggerSettings/CustomTaggerSettings/Data/TagsCollectionRootItem/{EECFD4D2-D64C-4214-8150-CFE9C491D779}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Foundation/CustomTaggerSettings/CustomTaggerSettings/Data/TagsListFieldTarget/{55DD19B5-9143-4CA1-9ABB-AA4826F60031}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>items</Name>
+    </xitems>
+    <xfiles>
+      <Entries>
+        <x-item>/App_Config/Include/Feature/Sc.CustomTagger.config</x-item>
+        <x-item>/App_Config/Include/Foundation/Sc.CustomTagger.Settings.config</x-item>
+        <x-item>/bin/Sc.CustomTagger.dll</x-item>
+        <x-item>/bin/Sc.CustomTagger.pdb</x-item>
+        <x-item>/bin/Sc.CustomTagger.Settings.dll</x-item>
+        <x-item>/bin/Sc.CustomTagger.Settings.pdb</x-item>
+      </Entries>
+      <Converter>
+        <FileToEntryConverter>
+          <Root>/</Root>
+          <Transforms />
+        </FileToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>files</Name>
+    </xfiles>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>
