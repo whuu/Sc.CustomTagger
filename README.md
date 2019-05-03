@@ -1,14 +1,14 @@
 # Custom Content Tagger
 
 Module allows Content Authors to use built-in [Sitecore Cortex Content Tagging](https://doc.sitecore.com/users/91/sitecore-experience-platform/en/tag-content-using-sitecore-cortex-content-tagging.html) feature with custom tags root item(s) and custom tag items structure. 
-This gives more flexibility, cause by default content tagging applies tags to items in standard _Semantics field and stores the tags in item buckets, which are not easy to manage or reuse. 
+This gives more flexibility, cause by default content tagging applies tags to items in standard `_Semantics` field and stores the tags in item buckets, which are not easy to manage or reuse. 
 Module is flexible and works with different tags structure, including custom or SXA. 
 
 Modules solves some issues related with standard content tagging:
 
   - By default tags are stored in categories returned by tags discovery provider (e.g. [Open Calais](http://www.opencalais.com/)), but it can be manually adjusted afterwards and categories title can be changed.
   - Same tag items are not created multiple times. Module assigns to content items tags, which were created before. 
-  - Tag items have value field, which can be adjusted or translated, after the generation, therefore they can be displayed on website, e.g. as search facets.
+  - Tag items have title field, which can be adjusted or translated, after the generation, therefore they can be displayed on website, e.g. as search facets.
 
 For SXA, Sitecore also offers its own [custom taxonomy provider](https://doc.sitecore.com/developers/sxa/18/sitecore-experience-accelerator/en/integrating-sxa-with-sitecore-cortex--content-tagging.html), which solves some of the problems listed above. 
 
