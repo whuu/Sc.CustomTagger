@@ -75,7 +75,7 @@ To use the module you will need to:
 * Update `publishUrl` to your Sitecore instance URL in `publishsettings.targets` file.
 * Update path in `sourceFolderCustomTagger` variable to your local repository folder in `zz.Sc.CustomTagger.Serialization.Settings.config` file.
 * Publish `Sc.CustomTagger` and `Sc.CustomTagger.Settings` projects from Visual Studio.
-* Publish `Sc.CustomTagger.Serialization` project. This project contains Unicorn assemblies and configuration. If you already have Unicorn in your project you can deploy only `zz.Sc.CustomTagger.Serialization.Settings.config` file.  
+* Publish `Sc.CustomTagger.Serialization` project. This project contains Unicorn assemblies and configuration. Skip this step, if you already have Unicorn installed.  
 * Go to http://your-sitecore-instance/unicorn.aspx and sync `Foundation.CustomTaggerSettings` project.
 
 ## Test Website Deployment

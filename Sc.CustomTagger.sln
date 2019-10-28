@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{17DD5718-6E13-4F2C-9738-B410396D4552}"
 EndProject
@@ -17,7 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configurat
 		nuget.config = nuget.config
 		publishsettings.targets = publishsettings.targets
 		README.md = README.md
-		src\Foundation\Serialization\code\App_Config\Include\Foundation\zz.Sc.CustomTagger.Serialization.Settings.config = src\Foundation\Serialization\code\App_Config\Include\Foundation\zz.Sc.CustomTagger.Serialization.Settings.config
+		src\Foundation\CustomTaggerSettings\code\App_Config\Include\Foundation\zz.Sc.CustomTagger.Serialization.Settings.config = src\Foundation\CustomTaggerSettings\code\App_Config\Include\Foundation\zz.Sc.CustomTagger.Serialization.Settings.config
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomTagger", "CustomTagger", "{D1C69EB9-A71D-4D51-93AF-F51DA0F49C58}"
